@@ -1,1 +1,2 @@
 Going through skill distillery's Git tutorial
+I have added a new line
