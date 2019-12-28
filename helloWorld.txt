@@ -1,0 +1,2 @@
+This file is to demonstrate Git commits
+This will be my first attempt
